@@ -3,7 +3,7 @@
 A Water Jug Problem: You are given two jugs, a 4lit one and a 3lit
 one, a pump which has unlimited water which you can use to  fill the jug, and
 the ground on which water may be poured. Neither jug has any measuring
-markings on it. How can you get exactly 2 gallons of water in the 4-gallon jug?
+markings on it. How can you get exactly 2lit of water in the 4-gallon jug?
 
 ### Reqirements
 * SWI-Prolog version 7.2.0
